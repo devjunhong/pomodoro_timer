@@ -1,0 +1,27 @@
+{
+  "name": "pomodoro_timer",
+  "version": "1.0.0",
+  "description": "Help you stick to the pomodoro technique",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjunhong/pomodoro_timer.git"
+  },
+  "keywords": [
+    "pomodoro",
+    "focus",
+    "technique"
+  ],
+  "author": "Junhong Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devjunhong/pomodoro_timer/issues"
+  },
+  "homepage": "https://github.com/devjunhong/pomodoro_timer#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
